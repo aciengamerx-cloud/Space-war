@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Wing Accents -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,20 L66,48 L90,62 L78,68 L54,58 L30,68 L18,62 L42,48 Z" />
+    <!-- Ship Hull Body -->
+    <path
+        android:fillColor="#E0E6ED"
+        android:pathData="M54,24 L62,52 L78,66 L54,84 L30,66 L46,52 Z" />
+    <!-- Cockpit Canopy -->
+    <path
+        android:fillColor="#FF3D00"
+        android:pathData="M54,34 L58,48 L54,52 L50,48 Z" />
+    <!-- Glowing Engines -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M44,72 L48,72 L46,88 L44,72 Z M60,72 L64,72 L62,88 L60,72 Z" />
+</vector>

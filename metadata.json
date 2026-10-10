@@ -1,0 +1,6 @@
+{
+  "name": "Starstreak 3D",
+  "description": "Sci-fi 3D space combat simulator featuring customizable starships, asteroid field navigation, intense dogfights, and local leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
